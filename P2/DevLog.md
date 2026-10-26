@@ -8,3 +8,5 @@ Creating the pickup coin and incrementing the internal coin purse itself was the
 
 In case the Gif of the running functions is of bad quality, here is the link that hopefully works to the video.
 https://app.screencastify.com/watch/ngUUJZSuC6lqVbZzAePp
+This link below is the link to the longer video (ended up being almost 5 minutes my bad), I did not end up using either of the suggested formats because I am more comfortable with Castify and it is just simple to use for me
+https://app.screencastify.com/watch/GyU8tc9ZnDUtQN0y85Rt
