@@ -7,5 +7,5 @@ Engineer's Journal: Realistically, this might've been the single easiest sprint 
 Beyond that, there wasn't any other big mechanical changes or anything crazy put into this sprint. I needed a bit of a slower week, since I had and still have a lot going on in other classes so having less to do for this mechanic but still advancing things in the right direction was necessary for me. I did unfortunately leave out the stretch goal of adding different buildings, but I expected I wouldn't be able to do that.
 
 Here is the short gif/video:
-
+[https://app.screencastify.com/watch/HBkOIXclmIDyVG33Fixj](https://app.screencastify.com/watch/HBkOIXclmIDyVG33Fixj)
 Here is the longer video:
